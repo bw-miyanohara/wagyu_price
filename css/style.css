@@ -29,16 +29,15 @@ p {
   color: #343a40;
 }
 
-.card-body{
-  /* width: 500px; */
-}
-
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
   }
 }
 
+.card{
+  border-radius: 0;
+}
 
 .submit-color {
   background-color: #DE660D;
